@@ -10,8 +10,7 @@ In this project, we will investigate restaurant food safety scores for restauran
 ## Notebooks
   
   ### **FoodSafety.ipynb**
-  > In this part of teh subject we work with *[bzip2](https://sourceware.org/bzip2/)* type data files. These data files can be accessed in the *[data]
-  > (https://github.com/lilitpetrosy/FoodSafety-DS-Python/tree/main/data)* forlder. 
+  > In this part of teh subject we work with *[bzip2](https://sourceware.org/bzip2/)* type data files. These data files can be accessed in the *[data](https://github.com/lilitpetrosy/FoodSafety-DS-Python/tree/main/data)* forlder. 
   > *The content of the data folder.*
   > ![](banners/FoodSafetyData.png)
   > The next steps are looking into zip codes of the city of San Francisco and determining score association with the location of the restaurats of bus.csv > 
