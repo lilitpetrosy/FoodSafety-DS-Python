@@ -21,12 +21,12 @@ In this project, we will investigate restaurant food safety scores for restauran
   ### **FoodSafetyB.ipynb**
   > The notebook focuses on finding patterns in the data through data visualizations. Findong correlation between the first score of the restaurant with their 
   > second score.
-  > ![](banners/correlation)
+  > ![](banners/correlation.png)
   > Additionally we look at restaurant score distributions over time. The timeline for our comparisson is 2017, 2018, and 2019.
-  > ![](banners/boxplot)
+  > ![](banners/boxplot.png)
   > Some of our final visualizations include geometric data. In particular we have included geospatial hexbin plot of average scores of restaurants all over San 
   > Francisco.
   > Personal note, I have used the map myself when deciding my next restaurant ventures in San Francisco and it has not dissapointed so far 🍜. The plot shows the highest concentration of restaurants with high average restaurant ratings near the Chinatown area.
-  > ![](banners/geoviz)
+  > ![](banners/geoviz.png)
 
   > Im no food blogger, but if you are interested in good restaurants to dine in when visiting the bey area, here is a [good github list](https://github.com/vahaknp/curations/blob/master/locations/SanFrancisco.md) for you.
